@@ -38,3 +38,6 @@ Deteccion temprana de problemas en la produccion
 | Mayor velocidad y eficiencia      | Lentitud de produccion                 | Robot Automatizados                                |
 | Reduccion de costos               | Altos costos laborales                 | Eficacia en los procesos por medio de automatizacion, menor esfuerzo y menor costo en esos procesos |
 | Deteccion temprada de problemas   | Inseguridad en control de produccion   | Sensores inteligentes, monitoreo de produccion     |
+
+## 5. Reflexion
+La IA nos puede servir a ayudar a mejorar procesos de trabajos, ser mas optimos y eficientes a la hora de verificar, entregar, comprobar, entre otras cosas. Ademas de que es algo que nos acompaña en el dia a dia por medio del celular u otro aparatos electronicos los cuales se les ha implementado la IA. Esta se ha creado con el fin de ayudarnos en la eficiencia de los procesos pero la idea tampoco es depender de ella si no aprovecharla para mejoras y apoyos, no para que nos controle la vida, si no nosotros a ella.
